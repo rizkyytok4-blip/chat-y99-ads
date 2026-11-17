@@ -1,12 +1,17 @@
 
 {
   "config_version": 1,
+
   "ads_enabled": true,
-  "banner_enabled": true,
+
+  "app_open_enabled": true,
+  "app_open_ad_unit_id": "ca-app-pub-6658570461438784/3892438030",
+
+  "native_enabled": true,
+  "native_ad_unit_id": "ca-app-pub-6658570461438784/3532686246",
+
   "interstitial_enabled": true,
-  "rewarded_enabled": true,
-  "banner_ad_unit_id": "ISI_ID_BANNER",
-  "interstitial_ad_unit_id": "ISI_ID_INTERSTITIAL",
-  "rewarded_ad_unit_id": "ISI_ID_REWARDED",
+  "interstitial_ad_unit_id": "ca-app-pub-6658570461438784/1266274699",
+
   "fetch_interval_minutes": 1
 }
