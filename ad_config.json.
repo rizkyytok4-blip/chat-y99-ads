@@ -1,0 +1,12 @@
+
+{
+  "config_version": 1,
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "banner_ad_unit_id": "ISI_ID_BANNER",
+  "interstitial_ad_unit_id": "ISI_ID_INTERSTITIAL",
+  "rewarded_ad_unit_id": "ISI_ID_REWARDED",
+  "fetch_interval_minutes": 1
+}
